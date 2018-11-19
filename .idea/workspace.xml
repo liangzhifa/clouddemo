@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0740f44b-5a0e-4744-88a6-43fac113d8d1" name="Default" comment="更改12">
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/atguigu/springcloud/entities/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/com/atguigu/springcloud/entities/Dept.java" afterDir="false" />
+    <list default="true" id="0740f44b-5a0e-4744-88a6-43fac113d8d1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/api/src/main/java/com/atguigu/springcloud/entities/Dept.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -234,7 +234,7 @@
       <option name="presentableId" value="Default" />
       <updated>1542194364340</updated>
       <workItem from="1542194366243" duration="3291000" />
-      <workItem from="1542632636888" duration="838000" />
+      <workItem from="1542632636888" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="233333">
       <created>1542632988609</created>
@@ -264,11 +264,25 @@
       <option name="project" value="LOCAL" />
       <updated>1542633290187</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更改12">
+      <created>1542633486240</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542633486240</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更改12">
+      <created>1542633736342</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542633736342</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4129000" />
+    <option name="totallyTimeSpent" value="4400000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -281,6 +295,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="835" y="14" width="974" height="1041" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
@@ -350,7 +365,7 @@
     <entry file="file://$PROJECT_DIR$/api/src/main/java/com/atguigu/springcloud/entities/Dept.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>
