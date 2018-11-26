@@ -13,6 +13,7 @@ import lombok.experimental.Accessors;
 public class Dept implements Serializable// entity --orm--- db_table
 {
 
+	//233333
 	//6666666
 	private Long 	deptno; // 主键99
 	private String 	dname; // 部门名称
